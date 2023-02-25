@@ -1,0 +1,4 @@
+2) В ветке master в README.md написано:
+"Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)"
+А в ветке origin/demo:
+"Create release branch with human (master) in boots (boots branch) and hat (hat branch)."
